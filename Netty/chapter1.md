@@ -27,4 +27,105 @@
 同时针对写入时候，也就阻塞直到所有要发送的字节全部写入完毕，或者发生异常。当消息的接收方处理缓慢的时候，将不能及时的从TCP缓冲区读取消息，这将会导致发送方的TCP 的滑动窗口不断减小，降低写入速度。
 
 因此读写操作都是同步阻塞的，阻塞的事件取决于对方IO线程的处理速度和网络的传输速度。
-### 
+
+### 三、NIO
+
+java在jdk1.4中引入nio，在读写数据时候可以实现非阻塞。关键的要素包括Channel，Selector，Buffer。参考文章[https://blog.csdn.net/forezp/article/details/88414741](https://blog.csdn.net/forezp/article/details/88414741)
+#### Buffer 
+bio是面向字节流进行数据读写的，如InputStram或者OutputStream，并且流是单向传输。 nio中采用Buffer，数据先是从通道中读入到buffer，或者从buffer中写入到通道。NIO中的关键Buffer实现有：ByteBuffer, CharBuffer, DoubleBuffer, FloatBuffer, IntBuffer, LongBuffer, ShortBuffer，分别对应基本数据类型: byte, char, double, float, int, long, short。当然NIO中还有MappedByteBuffer, HeapByteBuffer, DirectByteBuffer等这里先不进行陈述。
+
+#### Selector
+Channel和IO中的stream
+
+#### Channel
+```
+
+public class ServerConnect
+{
+    private static final int BUF_SIZE=1024;
+    private static final int PORT = 8080;
+    private static final int TIMEOUT = 3000;
+    public static void main(String[] args)
+    {
+        selector();
+    }
+    public static void handleAccept(SelectionKey key) throws IOException{
+        ServerSocketChannel ssChannel = (ServerSocketChannel)key.channel();
+        SocketChannel sc = ssChannel.accept();
+        sc.configureBlocking(false);
+        sc.register(key.selector(), SelectionKey.OP_READ,ByteBuffer.allocateDirect(BUF_SIZE));
+    }
+    public static void handleRead(SelectionKey key) throws IOException{
+        SocketChannel sc = (SocketChannel)key.channel();
+        ByteBuffer buf = (ByteBuffer)key.attachment();
+        long bytesRead = sc.read(buf);
+        while(bytesRead>0){
+            buf.flip();
+            while(buf.hasRemaining()){
+                System.out.print((char)buf.get());
+            }
+            System.out.println();
+            buf.clear();
+            bytesRead = sc.read(buf);
+        }
+        if(bytesRead == -1){
+            sc.close();
+        }
+    }
+    public static void handleWrite(SelectionKey key) throws IOException{
+        ByteBuffer buf = (ByteBuffer)key.attachment();
+        buf.flip();
+        SocketChannel sc = (SocketChannel) key.channel();
+        while(buf.hasRemaining()){
+            sc.write(buf);
+        }
+        buf.compact();
+    }
+    public static void selector() {
+        Selector selector = null;
+        ServerSocketChannel ssc = null;
+        try{
+            selector = Selector.open();
+            ssc= ServerSocketChannel.open();
+            ssc.socket().bind(new InetSocketAddress(PORT));
+            ssc.configureBlocking(false);
+            ssc.register(selector, SelectionKey.OP_ACCEPT);
+            while(true){
+                if(selector.select(TIMEOUT) == 0){
+                    System.out.println("==");
+                    continue;
+                }
+                Iterator<SelectionKey> iter = selector.selectedKeys().iterator();
+                while(iter.hasNext()){
+                    SelectionKey key = iter.next();
+                    if(key.isAcceptable()){
+                        handleAccept(key);
+                    }
+                    if(key.isReadable()){
+                        handleRead(key);
+                    }
+                    if(key.isWritable() && key.isValid()){
+                        handleWrite(key);
+                    }
+                    if(key.isConnectable()){
+                        System.out.println("isConnectable = true");
+                    }
+                    iter.remove();
+                }
+            }
+        }catch(IOException e){
+            e.printStackTrace();
+        }finally{
+            try{
+                if(selector!=null){
+                    selector.close();
+                }
+                if(ssc!=null){
+                    ssc.close();
+                }
+            }catch(IOException e){
+                e.printStackTrace();
+            }
+        }
+    }
+```
