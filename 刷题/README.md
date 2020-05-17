@@ -8,5 +8,5 @@
 
 ## 双指针
 
-- [未排序正数数组中累加和为给定值的最长子数组的长度](https://www.nowcoder.com/practice/a4e34287fa1b41f9bd41f957efbd5dff?tpId=101&tqId=33076&tPage=1&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking)
+- [未排序正数数组中累加和为给定值的最长子数组的长度](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E6%9C%AA%E6%8E%92%E5%BA%8F%E6%AD%A3%E6%95%B0%E6%95%B0%E7%BB%84%E4%B8%AD%E7%B4%AF%E5%8A%A0%E5%92%8C%E4%B8%BA%E7%BB%99%E5%AE%9A%E5%80%BC%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E9%95%BF%E5%BA%A6.md)
 
