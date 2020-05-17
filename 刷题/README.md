@@ -6,3 +6,7 @@
 
 - [未排序数组中累加和为给定值的最长子数组系列问题](https://www.nowcoder.com/practice/36fb0fd3c656480c92b569258a1223d5?tpId=101&tqId=33077&tPage=1&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking)
 
+## 双指针
+
+- [未排序正数数组中累加和为给定值的最长子数组的长度](https://www.nowcoder.com/practice/a4e34287fa1b41f9bd41f957efbd5dff?tpId=101&tqId=33076&tPage=1&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking)
+
