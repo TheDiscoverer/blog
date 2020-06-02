@@ -30,6 +30,8 @@
 
 - [二叉搜索树的公共祖先](https://github.com/TheDiscoverer/blog/blob/master/刷题/二叉搜索树的公共祖先.md)
 
+- [二叉树的右视图](https://github.com/TheDiscoverer/blog/blob/master/刷题/树的右视图.md)
+
 ## 数组
 - [生命游戏](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.md)
 
