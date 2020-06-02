@@ -44,3 +44,4 @@
 
 ## 数组
 - [旋转矩阵](https://github.com/TheDiscoverer/blog/blob/master/刷题/旋转矩阵.md)
+- [使数组唯一的最小增量](https://github.com/TheDiscoverer/blog/blob/master/刷题/使数组唯一的最小增量.md)
