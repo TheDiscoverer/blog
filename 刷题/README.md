@@ -35,7 +35,7 @@
 
 - [z字形打印二叉树](https://github.com/TheDiscoverer/blog/blob/master/刷题/z字形打印二叉树.md)
 
-- [二叉树的最大路径和](ttps://github.com/TheDiscoverer/blog/blob/master/刷题/二叉树中的最大路径和.md)
+- [二叉树的最大路径和](https://github.com/TheDiscoverer/blog/blob/master/刷题/二叉树中的最大路径和.md)
 
 ## 数组
 
