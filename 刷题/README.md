@@ -14,9 +14,11 @@
 
 - [不同路径 II](https://github.com/TheDiscoverer/blog/blob/master/刷题/不同路径%20II.md)
 
-## 双指针
+## 链表
 
 - [未排序正数数组中累加和为给定值的最长子数组的长度](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E6%9C%AA%E6%8E%92%E5%BA%8F%E6%AD%A3%E6%95%B0%E6%95%B0%E7%BB%84%E4%B8%AD%E7%B4%AF%E5%8A%A0%E5%92%8C%E4%B8%BA%E7%BB%99%E5%AE%9A%E5%80%BC%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E9%95%BF%E5%BA%A6.md)
+
+- [旋转链表](https://github.com/TheDiscoverer/blog/blob/master/刷题/旋转链表.md)
 
 ## 树
 - [判断是否为平衡二叉树](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
@@ -55,6 +57,7 @@
 - [数据流中的中位数](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md)
 
 ## 字符串
+
 - [z字形变换](https://github.com/TheDiscoverer/blog/blob/master/刷题/z字形变换.md)
 
 - [罗马数组转整数](https://github.com/TheDiscoverer/blog/blob/master/刷题/罗马数字转整数.md)
