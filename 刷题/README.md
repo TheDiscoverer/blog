@@ -62,4 +62,6 @@
 
 - [罗马数组转整数](https://github.com/TheDiscoverer/blog/blob/master/刷题/罗马数字转整数.md)
 
+- [整数转罗马数字](https://github.com/TheDiscoverer/blog/blob/master/刷题/整数转罗马数字.md)
+
 - [复原IP地址](https://github.com/TheDiscoverer/blog/blob/master/刷题/复原IP地址.md)
