@@ -39,6 +39,8 @@
 
 - [二叉树的最大路径和](https://github.com/TheDiscoverer/blog/blob/master/刷题/二叉树中的最大路径和.md)
 
+- [二叉树的深度](https://github.com/TheDiscoverer/blog/blob/master/刷题/二叉树的深度.md)
+
 ## 数组
 
 - [生命游戏](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.md)
