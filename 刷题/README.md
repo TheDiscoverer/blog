@@ -66,4 +66,4 @@
 
 - [复原IP地址](https://github.com/TheDiscoverer/blog/blob/master/刷题/复原IP地址.md)
 
-- [最长回文子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长回文子序列.md)	动态规划
+- [最长回文子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长回文子序列.md)	*动态规划*
