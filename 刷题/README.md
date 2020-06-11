@@ -77,4 +77,4 @@
 
 - [正则表达式](https://github.com/TheDiscoverer/blog/blob/master/刷题/正则表达式.md)
 
-- [二进制求和](ttps://github.com/TheDiscoverer/blog/blob/master/刷题/二进制求和.md)
+- [二进制求和](https://github.com/TheDiscoverer/blog/blob/master/刷题/二进制求和.md)
