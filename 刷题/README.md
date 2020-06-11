@@ -72,3 +72,5 @@
 - [最长回文子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长回文子序列.md)	*动态规划*
 
 - [表示数值的字符串](https://github.com/TheDiscoverer/blog/blob/master/刷题/表示数值的字符串.md) 	*自动机*
+
+- [正则表达式](https://github.com/TheDiscoverer/blog/blob/master/刷题/正则表达式.md)
