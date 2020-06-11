@@ -20,6 +20,8 @@
 
 - [旋转链表](https://github.com/TheDiscoverer/blog/blob/master/刷题/旋转链表.md)
 
+- [复杂链表的赋值](https://github.com/TheDiscoverer/blog/blob/master/刷题/复杂链表的赋值.md)
+
 ## 树
 - [判断是否为平衡二叉树](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
