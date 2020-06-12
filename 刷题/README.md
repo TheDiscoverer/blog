@@ -76,10 +76,11 @@
 - [最长回文子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长回文子序列.md)	*动态规划*
 
 - [表示数值的字符串](https://github.com/TheDiscoverer/blog/blob/master/刷题/表示数值的字符串.md) 	*自动机*
-
+			  
 - [正则表达式](https://github.com/TheDiscoverer/blog/blob/master/刷题/正则表达式.md)
 
 - [二进制求和](https://github.com/TheDiscoverer/blog/blob/master/刷题/二进制求和.md)
 
 ## 找规律
+					  https://github.com/TheDiscoverer/blog/blob/master/刷题/和为s的两个数字.md
 - [圆圈中最后剩下的数字](https://github.com/TheDiscoverer/blog/blob/master/刷题/圆圈中最后剩下的数字.md)
