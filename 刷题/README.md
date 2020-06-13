@@ -86,3 +86,4 @@
 ## 找规律
 
 - [圆圈中最后剩下的数字](https://github.com/TheDiscoverer/blog/blob/master/刷题/圆圈中最后剩下的数字.md)
+- [子集II](https://github.com/TheDiscoverer/blog/blob/master/刷题/子集%20II.md)
