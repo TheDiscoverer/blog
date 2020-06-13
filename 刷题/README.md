@@ -47,6 +47,10 @@
 
 ## 数组
 
+基于数组的题，往往需要用到排序，双指针（两头往内扩展，从左往右扩展），前缀和，动态规划，二分查找，哈希表等。
+
+经典的题比如说XX最长（短）子数组长度，子数组个数
+
 - [生命游戏](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.md)
 
 - [旋转矩阵](https://github.com/TheDiscoverer/blog/blob/master/刷题/旋转矩阵.md)
