@@ -71,7 +71,7 @@
 
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
 
--[和可被 K 整除的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/和可被%20K%20整除的子数组.md)
+- [和可被 K 整除的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/和可被%20K%20整除的子数组.md)
 
 ## 堆
 
