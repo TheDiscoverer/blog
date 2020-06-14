@@ -67,7 +67,11 @@
 
 - [和为s的两个数字](https://github.com/TheDiscoverer/blog/blob/master/刷题/和为s的两个数字.md)
 
+### 子数组问题
+
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
+
+-[和可被 K 整除的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/和可被%20K%20整除的子数组.md)
 
 ## 堆
 
