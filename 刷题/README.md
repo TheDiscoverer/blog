@@ -24,7 +24,7 @@
 
 - [打家劫舍 II](https://github.com/TheDiscoverer/blog/blob/master/刷题/打家劫舍%20II.md)
 
-- [单词拆分](https://github.com/TheDiscoverer/blog/blob/master/刷题/打家劫舍%20II.md)
+- [单词拆分](https://github.com/TheDiscoverer/blog/blob/master/刷题/单词拆分.md)
 
 ## 链表
 
