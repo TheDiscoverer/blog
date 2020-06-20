@@ -109,6 +109,8 @@
 
 - [二进制求和](https://github.com/TheDiscoverer/blog/blob/master/刷题/二进制求和.md)
 
+- [一次编辑](https://github.com/TheDiscoverer/blog/blob/master/刷题/一次编辑.md)
+
 ## 找规律
 
 - [圆圈中最后剩下的数字](https://github.com/TheDiscoverer/blog/blob/master/刷题/圆圈中最后剩下的数字.md)
