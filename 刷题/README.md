@@ -28,6 +28,7 @@
 
 - [整数拆分](https://github.com/TheDiscoverer/blog/blob/master/刷题/整数拆分.md)
 
+- [硬币](https://github.com/TheDiscoverer/blog/blob/master/刷题/硬币.md)
 
 ## 链表
 
