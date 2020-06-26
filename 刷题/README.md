@@ -38,7 +38,7 @@
 
 - [最佳买卖股票时机含冷冻期](https://github.com/TheDiscoverer/blog/blob/master/刷题/最佳买卖股票时机含冷冻期.md)
 
-- [连续子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/连续子数组.md)
+- [连续子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/连续的子数组和.md)
 
 ## 链表
 
