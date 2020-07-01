@@ -47,6 +47,8 @@
 
 - [新21点](https://github.com/TheDiscoverer/blog/blob/master/刷题/新21点.md)
 
+- [等差数列划分](https://github.com/TheDiscoverer/blog/blob/master/刷题/等差数列划分.md)
+
 ## 链表
 
 - [未排序正数数组中累加和为给定值的最长子数组的长度](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E6%9C%AA%E6%8E%92%E5%BA%8F%E6%AD%A3%E6%95%B0%E6%95%B0%E7%BB%84%E4%B8%AD%E7%B4%AF%E5%8A%A0%E5%92%8C%E4%B8%BA%E7%BB%99%E5%AE%9A%E5%80%BC%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E9%95%BF%E5%BA%A6.md)
@@ -80,6 +82,8 @@
 
 基于数组的题，往往需要用到排序，双指针（两头往内扩展，从左往右扩展），前缀和，动态规划，二分查找，哈希表等。
 
+最佳观光组合使用了类似于前缀和以及转化优化目标的方法。
+
 经典的题比如说XX最长（短）子数组长度，子数组个数。
 
 - [生命游戏](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.md)
@@ -95,6 +99,8 @@
 - [四数之和](https://github.com/TheDiscoverer/blog/blob/master/刷题/四数之和.md)
 
 - [和为s的两个数字](https://github.com/TheDiscoverer/blog/blob/master/刷题/和为s的两个数字.md)
+
+- [最佳观光组合](https://github.com/TheDiscoverer/blog/blob/master/刷题/最佳观光组合.md)
 
 ### 子数组问题
 
