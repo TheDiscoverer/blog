@@ -134,6 +134,11 @@
 
 - [一次编辑](https://github.com/TheDiscoverer/blog/blob/master/刷题/一次编辑.md)
 
+两者区别在于子数组要求连续，而子序列不要求，导致动态方程组不一样
+- [最长重复子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长重复子数组.md)
+
+- [最长公共子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长公共子序列.md)
+
 ## 找规律
 
 - [圆圈中最后剩下的数字](https://github.com/TheDiscoverer/blog/blob/master/刷题/圆圈中最后剩下的数字.md)
