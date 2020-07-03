@@ -107,6 +107,8 @@
 
 - [最佳观光组合](https://github.com/TheDiscoverer/blog/blob/master/刷题/最佳观光组合.md)
 
+- [组合总和III]https://github.com/TheDiscoverer/blog/blob/master/刷题/组合总和III.md)
+
 ### 子数组问题
 
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
