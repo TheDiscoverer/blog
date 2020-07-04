@@ -5,6 +5,7 @@
 3. 计算包括逆波兰表达式计算和普通计算，前者需要一个栈，后者两个栈。
 
 - [递归函数和栈逆序一个栈](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E7%94%A8%E9%80%92%E5%BD%92%E5%87%BD%E6%95%B0%E5%92%8C%E6%A0%88%E9%80%86%E5%BA%8F%E4%B8%80%E4%B8%AA%E6%A0%88.md)
+应该只能强行记住这个解法了，func利用逆转栈，其中需要getAndRemove()来获取栈底元素。
 
 - [基本计算器II](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8II.md)
 
