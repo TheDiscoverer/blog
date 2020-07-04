@@ -124,7 +124,7 @@
 
 ### 二分查找
 
-- [搜索旋转排序数组 II](https://github.com/TheDiscoverer/blog/blob/master/刷题/搜索旋转排序数组II.md）
+- [搜索旋转排序数组II](https://github.com/TheDiscoverer/blog/blob/master/刷题/搜索旋转排序数组II.md）
 
 ## 堆
 
