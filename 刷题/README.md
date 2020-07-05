@@ -90,6 +90,8 @@
 
 - [二叉树的深度](https://github.com/TheDiscoverer/blog/blob/master/刷题/二叉树的深度.md)
 
+- [从中序与后序遍历序列构造二叉树](https://github.com/TheDiscoverer/blog/blob/master/刷题/从中序与后序遍历序列构造二叉树.md)
+
 ## 数组
 
 基于数组的题，往往需要用到排序，双指针（两头往内扩展，从左往右扩展），前缀和，动态规划，二分查找，哈希表等。
