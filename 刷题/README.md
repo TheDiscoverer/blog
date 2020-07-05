@@ -98,9 +98,13 @@
 
 最佳观光组合使用了类似于前缀和以及转化优化目标的方法。
 
-经典的题比如说XX最长（短）子数组长度，子数组个数。
+经典的问题比如说XX最长（短）子数组长度，子数组个数。
+
+原地算法
 
 - [生命游戏](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E7%94%9F%E5%91%BD%E6%B8%B8%E6%88%8F.md)
+
+- [矩阵置零](https://github.com/TheDiscoverer/blog/blob/master/刷题/矩阵置零.md)
 
 - [旋转矩阵](https://github.com/TheDiscoverer/blog/blob/master/刷题/旋转矩阵.md)
 
