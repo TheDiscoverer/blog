@@ -126,6 +126,8 @@
 
 - [求众数 II](https://github.com/TheDiscoverer/blog/blob/master/刷题/求众数II.md)
 
+- [数组中重复的数据](https://github.com/TheDiscoverer/blog/blob/master/刷题/数组中重复的数据.md)
+
 ### 子数组问题
 
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
