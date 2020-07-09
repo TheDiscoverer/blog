@@ -130,6 +130,8 @@
 
 - [盛最多水的容器](https://github.com/TheDiscoverer/blog/blob/master/刷题/盛最多水的容器.md)
 
+- [跳跃游戏](https://github.com/TheDiscoverer/blog/blob/master/刷题/跳跃游戏.md)
+
 ### 子数组问题
 
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
