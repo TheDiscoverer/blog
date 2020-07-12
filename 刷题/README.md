@@ -135,6 +135,7 @@
 
 - [合并区间](https://github.com/TheDiscoverer/blog/blob/master/刷题/合并区间.md)
 
+- [合并排序的数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/合并排序的数组.md)
 ### 子数组问题
 
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
