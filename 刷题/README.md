@@ -139,9 +139,6 @@
 
 - [最大交换](https://github.com/TheDiscoverer/blog/blob/master/刷题/最大交换.md)
 
-- [最长上升子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长上升子序列.md)
-
-
 ### 子数组问题
 
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
@@ -152,6 +149,8 @@
 二分查找，经常用在有序数组中，比如求第一次出现x时的下标，最后一次出现时的下标，大于等于的最小值，小于等于的最大值等等。一般while中为<=符号。比如在求第一次出现x时的下标，当出现x时候，我们可以独立判断一下是不是第一次出现，其余类似。
 
 - [搜索旋转排序数组II](https://github.com/TheDiscoverer/blog/blob/master/刷题/搜索旋转排序数组II.md)
+
+- [最长上升子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长上升子序列.md)
 
 ## 堆
 
