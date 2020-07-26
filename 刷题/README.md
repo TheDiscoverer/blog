@@ -139,6 +139,9 @@
 
 - [最大交换](https://github.com/TheDiscoverer/blog/blob/master/刷题/最大交换.md)
 
+- [最长上升子序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/最长上升子序列.md)
+
+
 ### 子数组问题
 
 - [长度最小的子数组](https://github.com/TheDiscoverer/blog/blob/master/刷题/长度最小的子数组.md)
