@@ -79,7 +79,7 @@
 
 - [二叉搜索树的范围和 - S](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E8%8C%83%E5%9B%B4%E5%92%8C.md)
 
-- [填充每个节点的下一个右侧节点指针 II - M](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E5%A1%AB%E5%85%85%E6%AF%8F%E4%B8%AA%E8%8A%82%E7%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%B3%E4%BE%A7%E8%8A%82%E7%82%B9%E6%8C%87%E9%92%88.md)
+- [填充每个节点的下一个右侧节点指针 II - M](https://github.com/TheDiscoverer/blog/blob/master/刷题/填充每个节点的下一个右侧节点指针II.md)
 
 - [最近公共祖先](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md)
 
@@ -97,6 +97,7 @@
 
 - [从中序与后序遍历序列构造二叉树](https://github.com/TheDiscoverer/blog/blob/master/刷题/从中序与后序遍历序列构造二叉树.md)
 
+- [填充每个节点的下一个右侧节点指针](https://github.com/TheDiscoverer/blog/blob/master/刷题/填充每个节点的下一个右侧节点指针.md)
 ## 数组
 
 基于数组的题，往往需要用到排序，双指针（两头往内扩展，从左往右扩展），前缀和，动态规划，二分查找，哈希表等。
