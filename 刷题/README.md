@@ -192,6 +192,8 @@
 
 - [一次编辑](https://github.com/TheDiscoverer/blog/blob/master/刷题/一次编辑.md)
 
+- [字符串相乘](https://github.com/TheDiscoverer/blog/blob/master/刷题/字符串相乘.md)
+
 
 ## 找规律
 
