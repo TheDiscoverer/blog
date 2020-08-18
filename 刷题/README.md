@@ -194,6 +194,7 @@
 
 - [字符串相乘](https://github.com/TheDiscoverer/blog/blob/master/刷题/字符串相乘.md)
 
+- [每个元音包含偶数次的最长子字符串](https://github.com/TheDiscoverer/blog/blob/master/刷题/每个元音包含偶数次的最长子字符串.md)
 
 ## 找规律
 
