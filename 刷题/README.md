@@ -75,6 +75,8 @@
 
 - [K个一组翻转链表](https://github.com/TheDiscoverer/blog/blob/master/刷题/K个一组翻转链表.md)
 
+- [反转链表2](https://github.com/TheDiscoverer/blog/blob/master/刷题/反转链表2.md)
+
 ## 树
 - [判断是否为平衡二叉树](https://github.com/TheDiscoverer/blog/blob/master/%E5%88%B7%E9%A2%98/%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
