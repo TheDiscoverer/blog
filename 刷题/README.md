@@ -222,4 +222,8 @@
 ### BFS
 
  - [01矩阵](https://github.com/TheDiscoverer/blog/blob/master/刷题/01矩阵.md)
+
+### 回溯
+
+- [排列序列](https://github.com/TheDiscoverer/blog/blob/master/刷题/排列序列.md)
  
